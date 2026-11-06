@@ -1,0 +1,7 @@
+{
+  "name": "Đấu Trường Năng Lượng - Khoa Học Lớp 5",
+  "description": "Ứng dụng trò chơi ôn tập Khoa học lớp 5 - Bài 7: Vai trò của năng lượng. Tích hợp 4 mini game sinh động, hệ thống huy hiệu, bảng xếp hạng và báo cáo tiến độ học tập gửi phụ huynh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
